@@ -15,6 +15,6 @@ cd TermuxLock
 
 chmod +x install.sh
 
-./install.sh
+bash install.sh
 
 That's it your work done
