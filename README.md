@@ -1,7 +1,7 @@
 # TermuxLock
 This is a tool to protect your termux
 
-#Intsallation
+Intsallation
 
 pkg update
 
@@ -9,9 +9,9 @@ pkg upgrade
 
 pkg install git
 
-git clone https://github.com/krishtechstudio/Termux-Locker/
+git clone https://github.com/SirManishKumar/TermuxLock
 
-cd Termux-Locker
+cd TermuxLock
 
 chmod +x install.sh
 
