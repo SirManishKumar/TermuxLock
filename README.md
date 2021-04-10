@@ -1,7 +1,7 @@
 # TermuxLock
 This is a tool to protect your termux
 
-Intsallation
+You can install this tool to follow these steps-
 
 pkg update
 
@@ -16,3 +16,5 @@ cd TermuxLock
 chmod +x install.sh
 
 ./install.sh
+
+That's it your work done
