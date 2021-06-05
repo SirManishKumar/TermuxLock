@@ -1,6 +1,6 @@
 #!/system/bin/sh
 clear
-pkg install python
+pkg install python -y
 pip install lolcat
 pkg install figlet
 clear
