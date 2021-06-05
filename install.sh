@@ -1,7 +1,8 @@
 #!/system/bin/sh
 clear
 pkg install python
-pip install figlet
+pip install lolcat
+pkg install figlet
 clear
 echo -e "\e[1;31m   Contacting To Manish Kumar Chaturvedi Server Please Wait."
 echo -e "\e[1;37m                 Connecting- SIRMANISHKUMAR"
